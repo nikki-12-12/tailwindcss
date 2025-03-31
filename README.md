@@ -12,10 +12,11 @@ npm install -D tailwindcss postcss autoprefixer @tailwindcss/forms @tailwindcss/
    3.1 Configurar tailwindcss:npx tailwindcss init
    3.2 Creara un archivo tailwind.config.js
    3.3 Crear un postcss.config.js
-4. Crear archivos principales
+   
+5. Crear archivos principales
    4.1 archivo css
    4.2 archivo html
-5. Configuración de scripts de construccion
+6. Configuración de scripts de construccion
     5.1 Con package.json
-6. Desarollo
+7. Desarollo
    6.1 Inicar proyecto en index.html desde live server
